@@ -1,2 +1,2 @@
 # AVL-Binary_Tree
-Scripts of AVL Tree in C.
+Scripts of AVL Tree in C++.
